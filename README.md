@@ -1,4 +1,4 @@
-# SciGuide Skills - 《现代科研指北》AI 技能库
+# Sciguide Skills - 《现代科研指北》AI 技能库
 
 [English](#english) | [中文](#chinese)
 
@@ -7,8 +7,8 @@
 <a name="english"></a>
 ## English
 
-### About SciGuide Skills
-**SciGuide Skills** is an open-source collection of AI Skills derived from the online book [**SciGuide: A Guide to Modern Research** (《现代科研指北》)](https://yufree.cn/sciguide/). It aims to provide researchers, students, and academics with a structured knowledge base and guidance system for academic career success, scientific thinking, and research management.
+### About sciguide Skills
+**Sciguide Skills** is an open-source collection of AI Skills derived from the online book [**Sciguide: A Guide to Modern Research** (《现代科研指北》)](https://yufree.cn/sciguide/). It aims to provide researchers, students, and academics with a structured knowledge base and guidance system for academic career success, scientific thinking, and research management.
 
 By transforming a static book into AI-ready "Skills," we allow AI assistants to provide proactive, context-aware mentoring based on the author's 10+ years of research experience.
 
@@ -43,8 +43,8 @@ This project is licensed under the [MIT License](LICENSE).
 <a name="chinese"></a>
 ## 中文
 
-### 关于 SciGuide Skills
-**SciGuide Skills** 是基于在线电子书 [**《现代科研指北》** (SciGuide)](https://yufree.cn/sciguide/) 开发的开源 AI 技能库。它旨在为研究人员、学生和学者提供一套关于学术生涯成功、科学思维和研究管理的结构化知识库和指导系统。
+### 关于 Sciguide Skills
+**Sciguide Skills** 是基于在线电子书 [**《现代科研指北》** (Sciguide)](https://yufree.cn/sciguide/) 开发的开源 AI 技能库。它旨在为研究人员、学生和学者提供一套关于学术生涯成功、科学思维和研究管理的结构化知识库和指导系统。
 
 通过将静态的电子书转化为 AI 可读的“技能（Skills）”，我们让 AI 助手能够基于作者十余年的科研心得，为你提供具备实战经验、坦诚且深入的学术指导。
 
